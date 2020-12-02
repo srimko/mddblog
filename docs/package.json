@@ -1,0 +1,19 @@
+{
+  "name": "mddblog",
+  "version": "0.0.1",
+  "description": "Blog madeleinedev",
+  "main": "index.js",
+  "authors": {
+    "name": "Srimko",
+    "email": "alexandre.cedrick@gmail.com"
+  },
+  "repository": "/mdd-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
