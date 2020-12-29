@@ -4,6 +4,9 @@ module.exports = {
   dest: 'public',
   title: 'MDD blog',
   description: 'MadeleineDev blog',
+  head: [
+    ['meta', { name: 'nofollow' }]
+  ],
   themeConfig: {
     author: 'Srimko',
   },
