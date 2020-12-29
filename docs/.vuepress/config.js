@@ -7,4 +7,13 @@ module.exports = {
   themeConfig: {
     author: 'Srimko',
   },
+  additionalPages: [
+    {
+      path: '/mentionlegales/',
+      filePath: path.resolve(__dirname, '../ml.md'),
+      frontmatter: {
+        layout: 'Layout'
+      }
+    }
+  ]
 }
