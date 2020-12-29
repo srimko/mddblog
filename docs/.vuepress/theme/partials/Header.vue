@@ -1,10 +1,10 @@
 <template>
   <nav>
     <ul class="menu">
-      <li>MDD <span>Développeur Front-End</span></li>
-      <li>Accueil</li>
-      <li>À propos</li>
-      <li>Showroom</li>
+      <li><a href="/#">MDD</a> <span>Développeur Front-End</span></li>
+      <li><a href="/#">Accueil</a></li>
+      <li><a href="">À propos</a></li>
+      <li><a href="">Showroom</a></li>
       <li ><a href="#" class="btn">Contactez-moi</a></li>
     </ul>
   </nav>
