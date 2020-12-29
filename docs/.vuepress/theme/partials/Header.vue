@@ -32,6 +32,9 @@ export default {
 
     li {
       margin-right: 35px;
+      a {
+        border: 0;
+      }
       &:nth-child(1) {
         margin-right: auto;
         font-size: 36px;
