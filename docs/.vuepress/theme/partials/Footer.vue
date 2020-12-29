@@ -8,7 +8,7 @@
       <li class="social github">
         <a href="#"><img src="../../public/img/github.svg" alt=""></a>
         </li>
-      <li class="ml"><a href="#">Mention légales</a></li>
+      <li class="ml"><a href="/mentionlegales/">Mention légales</a></li>
     </ul>
   </footer> 
 </template>

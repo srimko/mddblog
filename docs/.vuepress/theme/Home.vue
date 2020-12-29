@@ -19,7 +19,7 @@
 <script>
 import Header from './partials/Header'
 import Aside from './partials/Aside'
-import Footer from './components/Footer'
+import Footer from './partials/Footer'
 import ArticleList from './components/ArticleList'
 
 export default {
