@@ -14,15 +14,7 @@ export default {
   components: {
     Tag
   },
-  data: function () {
-    return {
-      tags: [
-        { name: 'HTML', link: '#' },
-        { name: 'CSS', link: '#' },
-        { name: 'Vuejs', link: '#' }
-      ]
-    }
-  }
+  props: ['tags']
 }
 </script>
 
